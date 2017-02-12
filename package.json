@@ -1,0 +1,17 @@
+{
+  "name": "follow_the_mouse_dumper",
+  "version": "1.0.0",
+  "description": "- node is not a browser (yep) therefore loading external files must be done with node specific filesystem functions",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^1.6.2",
+    "d3": "^4.5.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
